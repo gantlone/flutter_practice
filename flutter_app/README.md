@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+# Notion筆記連結
+
+https://flash-field-0fa.notion.site/Flutter-Dart-abb1d01860654d1985b73463b82ecad6
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
